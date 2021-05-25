@@ -7,3 +7,4 @@ Another line added in master branch using github
 Another line added in master branch using github x2
 Trash line
 New line using master branch for testing stash
+New line to trigger conflict will pulling, and resolve it using git pull --rebase
