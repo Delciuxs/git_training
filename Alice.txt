@@ -4,4 +4,5 @@ New Line in change_alice brach
 Another line using master branch for testing rebase
 Line added in master branch using github 
 Another line added in master branch using github
+Another line added in master branch using github x2
 Trash line
