@@ -1,3 +1,4 @@
 Hi! I'm Bobby. I've been here for a while now.
 New line Bob in master branch
 Hi I am in master testing a rebase conflict to be applied in patrick branch
+New line in patrick branch for triggering a rebase conflict with master
